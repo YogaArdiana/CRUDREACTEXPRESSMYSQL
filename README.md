@@ -50,4 +50,6 @@ Run Backend and Frontend Server
    cd backend
    npm index / nodemon index
 ```
-    
+
+
+![Logo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ4Zjc4anI5b2R5MmoyOGZpamdpd2FhN2Nwc3ZqMTY4NzNrZnNvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif)
